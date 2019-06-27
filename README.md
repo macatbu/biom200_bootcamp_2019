@@ -15,3 +15,6 @@ Sep 27 (Fri) 9am – 11am
 Sep 30 (Mon) 9am – 11am or 1pm (extended time)
 
 Oct 1 (Tues) 9am – 11am or 1pm (extended time) 
+
+
+Group Project
