@@ -24,11 +24,14 @@ Samtools and Gene quantification
 
 
 ### Sep 27 (Fri) 9am – 11am 
-GitHub?
+GitHub? 
 
 ### Sep 30 (Mon) 9am – 11am or 1pm (extended time)
 
 ### Oct 1 (Tues) 9am – 11am or 1pm (extended time) 
+
+
+# Office Hours
 
 *************************************************************************
 
