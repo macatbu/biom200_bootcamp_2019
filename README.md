@@ -1,6 +1,5 @@
 
-
-This is the homepage for the bootcamp information
+# Class Schedule 
 
 ### Pre-Class
 - Set up your TSCC account
@@ -31,11 +30,11 @@ GitHub?
 ### Oct 1 (Tues) 9am – 11am or 1pm (extended time) 
 
 
-# Office Hours
+## Office Hours
 
 *************************************************************************
 
-### Group Project
+## Group Project
  
  
  
