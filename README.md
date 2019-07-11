@@ -17,6 +17,8 @@
 
 - Tutorials
 -[Intro to bash commands]()
+-[Set up Jupyter Notebooks]()
+-[Intro to Python]()
 
 
 
