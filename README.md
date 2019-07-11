@@ -9,27 +9,37 @@
    - Website [here]()
 
 ### Sep 23 (Mon) 9am – 1pm 
--Intro to Sequencing, Unix, Data Download, Fastqc
-Notebooks
+## Intro to Sequencing, Unix, Data Download, Fastqc
+- Notebooks
 [TSCC login and Downloads]()
 [Data downloads and quality checks]()
 [STAR index and alignment]()
 
-Tutorials
+- Tutorials
 [Intro to bash commands]()
 
 
 
 ### Sep 24 (Tue) 9am – 1pm 
--Intro to Alignment, Submitting Jobs to Cluster, Samtools, and Gene quantification
+## Intro to Alignment, Submitting Jobs to Cluster, Samtools, and Gene quantification
+
+-Notebooks
+
+-Tutorials 
 
 ### Sep 25 (Wed) 9am – 1pm
--Differential Expression and GO Term Analysis
--Final Project Assigned
+## Differential Expression and GO Term Analysis
+
+-Notebooks
+
+-Tutorials 
 
 ### Sep 26 (Thur) 9am – 1pm
-- Python and Data Visualization
+## Python and Data Visualization
 
+-Notebooks
+
+-Tutorials 
 
 
 ### Sep 27 (Fri) 9am – 11am 
