@@ -3,8 +3,10 @@
 
 ### Pre-Class
 - Set up your TSCC account
-- Set up GitHub account 
+   - Intructions [here]()
+
 - Practice Python on DataCamp
+   - Website [here]()
 
 ### Sep 23 (Mon) 9am – 1pm 
 Intro to Sequencing, Unix, Data Download, Fastqc
