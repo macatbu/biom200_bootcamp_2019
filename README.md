@@ -11,7 +11,7 @@
 ### Sep 23 (Mon) 9am – 1pm 
 ## Intro to Sequencing, Unix, Data Download, Fastqc
 - Notebooks
-[TSCC login and Downloads]()
+[TSCC login and Downloads]() 
 [Data downloads and quality checks]()
 [STAR index and alignment]()
 
