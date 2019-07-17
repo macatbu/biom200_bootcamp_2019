@@ -18,23 +18,40 @@
 - Tutorials
 -[Intro to bash commands]()
 -[Set up Jupyter Notebooks]()
+-[TSCC Job submission]()
 
 - Lecture 
+-[Intro to Sequencing]()
 
 ## Sep 24 (Tue) 9am – 1pm 
 ### Intro to Alignment, Submitting Jobs to Cluster, Samtools, and Gene quantification
 
 - Notebooks
+-[FeatureCounts]()
+-[Samtools]()
+-[Python demo - Counts and Conditions]()
 
 - Tutorials 
+-[FeatureCounts tutorial]()
+-[Samtools sort and indexing]()
 -[Intro to Python]()
+-[TPM and plotting demo]()
+
+- Lecture 
 
 ## Sep 25 (Wed) 9am – 1pm
 ### Differential Expression and GO Term Analysis
 
 - Notebooks
+-[Functions example RPKM and TPM]()
+-[Plotting in python]()
+-[DESeq2 Analysis]()
+
 
 - Tutorials 
+-[DESeq2 Installs]()
+-[Intro to PCA]()
+-[Piping commands with bioinformatics tools]()
 
 - Lecture 
 
@@ -42,6 +59,7 @@
 ### Python and Data Visualization
 
 -Notebooks
+-[]()
 
 -Tutorials 
 
