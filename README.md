@@ -55,8 +55,8 @@
 
 - Lecture 
 
-## Sep 26 (Thur) 9am – 1pm
-### Python and Data Visualization
+## Oct 2 (Wed) 9am – 1pm
+### Python and Data Visualization and Group Presentations 
 
 -Notebooks
 -[]()
@@ -64,13 +64,10 @@
 -Tutorials 
 
 
-## Sep 27 (Fri) 9am – 11am 
-?
-
-
-
 
 ### Office Hours
+
+On [Slack]()
 
 *************************************************************************
 
