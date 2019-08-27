@@ -9,22 +9,32 @@
    - Website [here]()
 
 ## Sep 23 (Mon) 9am – 1pm 
-### Intro to Sequencing, Unix, Data Download, Fastqc, STAR alignment
+### Intro to Sequencing, Unix, Data Download, Fastqc
 - Notebooks
 -[TSCC login and Downloads]() 
 -[Data downloads and quality checks]()
--[STAR index and alignment]()
 
 - Tutorials
 -[Intro to bash commands]()
 -[Set up Jupyter Notebooks]()
--[TSCC Job submission]()
+
 
 - Lecture 
 -[Intro to Sequencing]()
 
-## Sep 24 (Tue) 9am – 1pm 
-### Intro to Alignment, Submitting Jobs to Cluster, Samtools, and Gene quantification
+## Sep 24 (Tue) 9am – 11am
+### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
+
+- Notebooks
+-[STAR index and alignment]()
+
+- Tutorials
+-[TSCC Job submission]()
+
+- Lecture 
+
+## Sep 25 (Wed) 9am – 1pm
+### Samtools and FeatureCounts
 
 - Notebooks
 -[FeatureCounts]()
@@ -37,16 +47,14 @@
 -[Intro to Python]()
 -[TPM and plotting demo]()
 
-- Lecture 
 
-## Sep 25 (Wed) 9am – 1pm
+## Sep 26 (Thurs) 9am-11am
 ### Differential Expression and GO Term Analysis
 
 - Notebooks
 -[Functions example RPKM and TPM]()
 -[Plotting in python]()
 -[DESeq2 Analysis]()
-
 
 - Tutorials 
 -[DESeq2 Installs]()
