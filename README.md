@@ -81,20 +81,25 @@ On [Slack]()
 
 ### Group Project
  
- Project description: 
- In your groups find a published RNA-seq data set. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question.  
+Project description: 
+In your groups find a published RNA-seq data set. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question. Create a 5 slide, 7 minute presentation on 
  
- In your write up answer:
+ In your presentation include:
  Where is this dataset from?
  What question were they answering in this experiment?
- List the commands you used to process it.
- Plot ..... and give us those things. 
+ List the commands you used to process the data.
+ Generate a PCA plot and heatmap to compare the datasets. 
+ Any interesting plots created during our last class.
+ 
+ In class on Wednesday we will do more data analysis and plotting using Python.
+ Keep your clean_counts file and share it with everyone in your group. 
+ Graphs you generate in the last class can be added to the end of your presentation. 
  
  
  
 *************************************************************************
 
-Additional resources for bioinformatics:
+
 
 
 
