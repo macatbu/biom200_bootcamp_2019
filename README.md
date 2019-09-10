@@ -5,13 +5,12 @@
 - Set up your TSCC account
    - Intructions [here]()
 
-- Practice Python on DataCamp
-   - Website [here]()
+   - Practice UNIX [here]()
 
 ## Sep 23 (Mon) 9am – 1pm 
 ### Intro to Sequencing, Unix, Data Download, Fastqc
 - Notebooks
--[TSCC login and Downloads]() 
+-[TSCC login and Downloads](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/01-TSCC_login_and_program_downloads.ipynb) 
 -[Data downloads and quality checks]()
 
 - Tutorials
