@@ -42,22 +42,20 @@
 -[Python demo - Counts and Conditions]()
 
 - Tutorials 
--[FeatureCounts tutorial]()
--[Samtools sort and indexing]()
 -[Intro to Python]()
--[TPM and plotting demo]()
 
 
 ## Sep 26 (Thurs) 9am-11am
 ### Differential Expression and GO Term Analysis
 
 - Notebooks
--[Functions example RPKM and TPM]()
+-[Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
 -[Plotting in python]()
--[DESeq2 Analysis]()
+-[DESeq2 Installs]()
+-[DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
 
 - Tutorials 
--[DESeq2 Installs]()
+
 -[Intro to PCA]()
 -[Piping commands with bioinformatics tools]()
 
