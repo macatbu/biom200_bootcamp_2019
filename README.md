@@ -3,9 +3,8 @@
 
 ## Pre-Class
 - Set up your TSCC account
-   - Intructions [here]()
-
-   - Practice UNIX [here]()
+   - Intructions [Mac](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/blob/master/notebooks/Day_0/0.0)Generate_public_private_key_mac.ipynb) .  [Windows](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/blob/master/notebooks/Day_0/0.0)Generate_public_and_private_key_windows.ipynb)
+   - Practice UNIX [here](http://korflab.ucdavis.edu/bootcamp.html)
 
 ## Sep 23 (Mon) 9am – 1pm 
 ### Intro to Sequencing, Unix, Data Download, Fastqc
