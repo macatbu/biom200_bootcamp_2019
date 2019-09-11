@@ -13,9 +13,7 @@
    - 2 [Intro to bash commands](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/02-Essential_bash_commands.ipynb)
    - 3 [Data downloads and quality checks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/03-Download_Data_and_Fastqc.ipynb)
 
-
 -[Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
-
 
 - Lecture 
    - [Intro to Sequencing]()
@@ -24,10 +22,8 @@
 ### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
 
 - Notebooks
-   - 1 [STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
-
-- Tutorials
-   - [TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
+   - 1 [TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
+   - 2 [STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
 
 - Lecture 
   - [STAR Alignment and TSCC Job submission]()
@@ -55,17 +51,17 @@
   - 1 [DESeq2 Installs]()
   - 2 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
 
-
 - Lecture 
    - [DESeq2 and gene expression]()
 
 ## Oct 2 (Wed) 9am – 1pm
-### G O Term Analysis, Data Visualization, and Group Presentations 
+### GO Term Analysis, Data Visualization, and Group Presentations 
 
 - Notebooks
   -[TBD]()
 
--Tutorials 
+- Lecture
+  - [TBD]()
 
 
 
