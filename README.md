@@ -13,7 +13,8 @@
    - 2 [Intro to bash commands](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/02-Essential_bash_commands.ipynb)
    - 3 [Data downloads and quality checks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/03-Download_Data_and_Fastqc.ipynb)
 
--[Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
+- Tutorials
+   - [Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
 
 - Lecture 
    - [Intro to Sequencing]()
