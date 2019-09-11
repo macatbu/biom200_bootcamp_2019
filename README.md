@@ -5,17 +5,16 @@
 - Set up your TSCC account
    - Intructions [here]()
 
-- Practice Python on DataCamp
-   - Website [here]()
+   - Practice UNIX [here]()
 
 ## Sep 23 (Mon) 9am – 1pm 
 ### Intro to Sequencing, Unix, Data Download, Fastqc
 - Notebooks
--[TSCC login and Downloads]() 
--[Data downloads and quality checks]()
+   - 1 [TSCC login and Downloads](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/01-TSCC_login_and_program_downloads.ipynb) 
+   - 2 [Intro to bash commands](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/02-Essential_bash_commands.ipynb)
+   - 3 [Data downloads and quality checks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/03-Download_Data_and_Fastqc.ipynb)
 
-- Tutorials
--[Intro to bash commands]()
+
 -[Set up Jupyter Notebooks]()
 
 
@@ -26,7 +25,7 @@
 ### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
 
 - Notebooks
--[STAR index and alignment]()
+-[STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
 
 - Tutorials
 -[TSCC Job submission]()
@@ -38,7 +37,7 @@
 
 - Notebooks
 -[FeatureCounts]()
--[Samtools]()
+-[Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
 -[Python demo - Counts and Conditions]()
 
 - Tutorials 
