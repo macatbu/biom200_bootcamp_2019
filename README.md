@@ -15,7 +15,7 @@
    - 3 [Data downloads and quality checks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/03-Download_Data_and_Fastqc.ipynb)
 
 
--[Set up Jupyter Notebooks]()
+-[Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
 
 
 - Lecture 
@@ -28,7 +28,7 @@
 -[STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
 
 - Tutorials
--[TSCC Job submission]()
+-[TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
 
 - Lecture 
 
@@ -36,7 +36,8 @@
 ### Samtools and FeatureCounts
 
 - Notebooks
--[FeatureCounts]()
+-[FeatureCounts](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
+-[FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
 -[Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
 -[Python demo - Counts and Conditions]()
 
