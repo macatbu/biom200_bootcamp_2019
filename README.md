@@ -3,7 +3,7 @@
 
 ## Pre-Class
 - Set up your TSCC account
-   - Intructions [Mac](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/blob/master/notebooks/Day_0/0.0Generate_public_private_key_mac.ipynb) .  [Windows](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/blob/master/notebooks/Day_0/0.0Generate_public_and_private_key_windows.ipynb)
+   - Intructions [Mac] (https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/blob/master/notebooks/Day_0/0.0)Generate_public_private_key_mac.ipynb) .  [Windows](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/blob/master/notebooks/Day_0/0.0)Generate_public_and_private_key_windows.ipynb)
    - Practice UNIX [here](http://korflab.ucdavis.edu/bootcamp.html)
 
 ## Sep 23 (Mon) 9am – 1pm 
@@ -18,53 +18,52 @@
 
 
 - Lecture 
--[Intro to Sequencing]()
+   - [Intro to Sequencing]()
 
 ## Sep 24 (Tue) 9am – 11am
 ### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
 
 - Notebooks
--[STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
+   - 1 [STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
 
 - Tutorials
--[TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
+   - [TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
 
 - Lecture 
+  - [STAR Alignment and TSCC Job submission]()
 
 ## Sep 25 (Wed) 9am – 1pm
 ### Samtools and FeatureCounts
 
 - Notebooks
--[FeatureCounts](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
--[FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
--[Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
--[Python demo - Counts and Conditions]()
+  - 1 [FeatureCounts](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
+  - 2 [FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
+  - 3 [Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
+  - 4 [Python demo - Counts and Conditions]()
+  - 5 [Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
 
 - Tutorials 
--[Intro to Python]()
-
-
-## Sep 26 (Thurs) 9am-11am
-### Differential Expression and GO Term Analysis
-
-- Notebooks
--[Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
--[Plotting in python]()
--[DESeq2 Installs]()
--[DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
-
-- Tutorials 
-
--[Intro to PCA]()
--[Piping commands with bioinformatics tools]()
+  - [Intro to Python]()
 
 - Lecture 
+  - [Samtools, FeatureCounts, RPKM/TPM Lecture]()
+
+## Sep 26 (Thurs) 9am-11am
+### Differential Expression
+
+- Notebooks
+  - 1 [DESeq2 Installs]()
+  - 2 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
+
+
+- Lecture 
+   - [DESeq2 and gene expression]()
 
 ## Oct 2 (Wed) 9am – 1pm
-### Python and Data Visualization and Group Presentations 
+### G O Term Analysis, Data Visualization, and Group Presentations 
 
--Notebooks
--[]()
+- Notebooks
+  -[TBD]()
 
 -Tutorials 
 
@@ -72,7 +71,7 @@
 
 ### Office Hours
 
-On [Slack]()
+On Slack, email mcburns@ucsd.edu for access. 
 
 *************************************************************************
 
