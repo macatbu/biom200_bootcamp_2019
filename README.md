@@ -3,7 +3,7 @@
 
 ## Pre-Class
 - Set up your TSCC account
-   - Intructions [Mac] (https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Generate_public_private_key_mac.ipynb)   [Windows](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Generate_public_and_private_key_windows.ipynb)
+   - Intructions [Mac](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Generate_public_private_key_mac.ipynb)   [Windows](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Generate_public_and_private_key_windows.ipynb)
    - Practice UNIX [here](http://korflab.ucdavis.edu/bootcamp.html)
 
 ## Sep 23 (Mon) 9am – 1pm 
