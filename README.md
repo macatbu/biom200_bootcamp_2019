@@ -47,7 +47,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 - Lecture 
   - [Samtools, FeatureCounts, RPKM/TPM Lecture]()
 
-## Sep 26 (Thurs) 9am-11am
+## Sep 26 (Thurs) 11am-1pm
 ### Differential Expression
 
 - Notebooks
