@@ -68,7 +68,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 
 
 This years bootcamp is based off of materials prepared for past years by 
-Emily Wheeler [2017](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017/tree/master/2016_materials)
+Emily Wheeler [2017](https://github.com/YeoLab/BMS_bioinformatics_bootcamp_2017)
 Ryan Marina [2018](https://github.com/ryanmarina/BMS_bioinformatics_bootcamp_2018)
 
 
