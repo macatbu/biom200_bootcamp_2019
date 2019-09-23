@@ -7,6 +7,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 - Set up your TSCC account
    - Intructions [Mac](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Generate_public_private_key_mac.ipynb)   [Windows](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Generate_public_and_private_key_windows.ipynb)
    - Practice UNIX [here](http://korflab.ucdavis.edu/bootcamp.html)
+   - Download Anaconda using [these instructions](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/00-%20Pre-class%20downloads.ipynb)
 
 ## Sep 23 (Mon) 9am – 1pm 
 ### Intro to Sequencing, Unix, Data Download, Fastqc
@@ -15,11 +16,9 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
    - 2 [Intro to bash commands](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/02-Essential_bash_commands.ipynb)
    - 3 [Data downloads and quality checks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/03-Download_Data_and_Fastqc.ipynb)
 
-- Tutorials
-   - [Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
 
 - Lecture 
-   - [Intro to Sequencing]()
+   - [Intro to Bootcamp and RNA-seq]()
 
 ## Sep 24 (Tue) 9am – 11am
 ### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
@@ -42,7 +41,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
   - 5 [Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
 
 - Tutorials 
-  - [Intro to Python]()
+   - [Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
 
 - Lecture 
   - [Samtools, FeatureCounts, RPKM/TPM Lecture]()
