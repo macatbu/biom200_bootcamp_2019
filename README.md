@@ -24,9 +24,10 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
 
 - Notebooks
-   - 1 [TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
-   - 2 [STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
+   - 4 [STAR index and alignment](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/04-STAR_index_alignment_and_aliases.ipynb)
 
+- Tutorial 
+   - [TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
 - Lecture 
   - [STAR Alignment and TSCC Job submission]()
 
@@ -34,11 +35,11 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### Samtools and FeatureCounts
 
 - Notebooks
-  - 1 [FeatureCounts](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
-  - 2 [FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
-  - 3 [Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
-  - 4 [Python demo - Counts and Conditions]()
-  - 5 [Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
+  - 5 [FeatureCounts](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
+  - 6 [FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
+  - 7 [Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
+  - 8 [Python demo - Counts and Conditions]()
+  - 9 [Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
 
 - Tutorials 
    - [Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
@@ -50,8 +51,8 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### Differential Expression
 
 - Notebooks
-  - 1 [DESeq2 Installs]()
-  - 2 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
+  - 10 [DESeq2 Installs]()
+  - 11 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
 
 - Lecture 
    - [DESeq2 and gene expression]()
