@@ -18,7 +18,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 
 
 - Lecture 
-   - [Intro to Bootcamp and RNA-seq]()
+   - [Intro to Bootcamp and RNA-seq](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/lectures/Bootcamp_Day_1.pdf)
 
 ## Sep 24 (Tue) 9am – 11am
 ### Submitting Jobs to Cluster Intro to Alignment, STAR alignment
