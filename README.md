@@ -12,8 +12,8 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ## Sep 23 (Mon) 9am – 1pm 
 ### Intro to Sequencing, Unix, Data Download, Fastqc
 - Notebooks
-   - 1 [TSCC login and Downloads](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/01-TSCC_login_and_program_downloads.ipynb) 
-   - 2 [Intro to bash commands](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/02-Essential_bash_commands.ipynb)
+   - 1 [Intro to bash commands](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/01-Essential_bash_commands.ipynb) 
+   - 2 [TSCC login and Downloads](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/02-TSCC_login_and_program_downloads.ipynb)
    - 3 [Data downloads and quality checks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/03-Download_Data_and_Fastqc.ipynb)
 
 
