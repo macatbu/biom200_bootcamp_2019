@@ -51,8 +51,8 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### Differential Expression
 
 - Notebooks
-  - 10 [DESeq2 Installs]()
-  - 11 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_analysis.ipynb)
+  - 10 [DESeq2 Installs](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_Installs.ipynb)
+  - 11 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/11-DESeq2_analysis.ipynb)
 
 - Lecture 
    - [DESeq2 and gene expression]()
