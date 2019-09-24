@@ -29,7 +29,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 - Tutorial 
    - [TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/TSCC_job_submission.ipynb)
 - Lecture 
-  - [STAR Alignment and TSCC Job submission]()
+  - [STAR Alignment and TSCC Job submission](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/lectures/Bootcamp%20Day%202.pdf)
 
 ## Sep 25 (Wed) 9am – 1pm
 ### Samtools and FeatureCounts
