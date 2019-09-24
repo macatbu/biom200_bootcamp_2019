@@ -35,17 +35,17 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### Samtools and FeatureCounts
 
 - Notebooks
-  - 5 [FeatureCounts](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
-  - 6 [FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
-  - 7 [Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
-  - 8 [Python demo - Counts and Conditions]()
-  - 9 [Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Functions_example_RPKM_and_TPM.ipynb)
+  - 5 [Samtools](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/05-Samtools_Sort_and_Indexing.ipynb)
+  - 6 [FeatureCounts1](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/06-FeatureCounts.ipynb)
+  - 7 [FeatureCounts2](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/07-FeatureCounts_tutorial.ipynb)
+  - 8 [Python demo - Counts and Conditions](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/08-Python_demo_make_counts_and_conditions_matrix.ipynb)
+  - 9 [Functions example RPKM and TPM](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/09-Functions_example_RPKM_and_TPM.ipynb)
 
 - Tutorials 
    - [Set up Jupyter Notebooks](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/tutorials/Opening_Jupyter_Notebooks.ipynb)
 
 - Lecture 
-  - [Samtools, FeatureCounts, RPKM/TPM Lecture]()
+  - [Samtools, FeatureCounts, RPKM/TPM Lecture](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/lectures/Bootcamp%20Day%203.pdf)
 
 ## Sep 26 (Thurs) 11am-1pm
 ### Differential Expression
