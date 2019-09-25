@@ -79,6 +79,10 @@ On Slack, email mcburns@ucsd.edu for access.
 *************************************************************************
 
 ### Group Project
+
+[Project example](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/group_project/Group_Project_Example.pdf)
+
+[Genome information for human reference genome](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/group_project/Group_Project_Tips.ipynb)
  
 Project description: 
 In your groups find a published RNA-seq data set. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question. Create a 5 slide, 7 minute presentation on 
