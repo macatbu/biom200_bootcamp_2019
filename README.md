@@ -85,7 +85,7 @@ On Slack, email mcburns@ucsd.edu for access.
 [Genome information for human reference genome](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/group_project/Group_Project_Tips.ipynb)
  
 Project description: 
-In your groups find a published RNA-seq data set on human cells. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question. Create a 5 slide, ~7 minute presentation on it.
+In your groups find a published RNA-seq data set on human cells. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question. Create a 8 slide, ~10 minute presentation on it.
  
  In your presentation include:
  Where is this dataset from?
