@@ -85,17 +85,17 @@ On Slack, email mcburns@ucsd.edu for access.
 [Genome information for human reference genome](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/group_project/Group_Project_Tips.ipynb)
  
 Project description: 
-In your groups find a published RNA-seq data set. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question. Create a 5 slide, 7 minute presentation on 
+In your groups find a published RNA-seq data set on human cells. Use the skills you learned in class to process and analyze the data. Tell us what the results tell us about the biological question. Create a 5 slide, ~7 minute presentation on it.
  
  In your presentation include:
  Where is this dataset from?
  What question were they answering in this experiment?
- List the commands you used to process the data.
- Generate a PCA plot and heatmap to compare the datasets. 
- Any interesting plots created during our last class.
+ Generate a PCA plot and heatmap to compare the samples. 
+ Show a volcano plot showing differential expression.
+
  
  In class on Wednesday we will do more data analysis and plotting using Python.
- Keep your clean_counts file and share it with everyone in your group. 
+ Keep your clean_counts.csv file and share it with everyone in your group. 
  Graphs you generate in the last class can be added to the end of your presentation. 
  
  
