@@ -59,7 +59,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
   - 11 [RStudio DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/11%20-%20RStudio_DESeq2_Analysis.Rmd)
   
 - Lecture 
-   - [DESeq2 and gene expression]()
+   - [DESeq2 and gene expression](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/lectures/Bootcamp%20Day%204.pdf)
 
 ## Oct 2 (Wed) 9am – 1pm
 ### GO Term Analysis, Data Visualization, and Group Presentations 
