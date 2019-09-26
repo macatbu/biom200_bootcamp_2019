@@ -65,7 +65,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### GO Term Analysis, Data Visualization, and Group Presentations 
 
 - Notebooks
-  -[TBD]()
+  -[Plotting in Python](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/12-Plotting_in_Python.ipynb)
 
 - Lecture
   - [TBD]()
