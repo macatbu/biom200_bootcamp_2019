@@ -50,10 +50,14 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ## Sep 26 (Thurs) 11am-1pm
 ### Differential Expression
 
-- Notebooks
+- Notebooks for running DESeq2 in R Kernel
   - 10 [DESeq2 Installs](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-DESeq2_Installs.ipynb)
   - 11 [DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/11-DESeq2_analysis.ipynb)
 
+- Notebooks for running DESeq2 in RStudio (on local computer)
+  - 10 [RStudio Install Instructions](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/10-RStudio_Install_Instructions.ipynb)
+  - 11 [RStudio DESeq2 Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/11%20-%20RStudio_DESeq2_Analysis.Rmd)
+  
 - Lecture 
    - [DESeq2 and gene expression]()
 
