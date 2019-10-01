@@ -69,7 +69,7 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
   - 13 [Pathway Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/13-Pathway_analysis_of_differentially_expressed_genes.ipynb)
 
 - Lecture
-  - [Pathway Analysis()
+  - [Pathway Analysis(https://github.com/macatbu/biom200_bootcamp_2019/blob/master/lectures/Bootcamp%20Day%205.pdf)
 
 
 This years bootcamp is based off of materials prepared for past years by 
