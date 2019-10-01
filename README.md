@@ -66,9 +66,10 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 
 - Notebooks
   -[Plotting in Python](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/12-Plotting_in_Python.ipynb)
+  -[Pathway Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/13-Pathway_analysis_of_differentially_expressed_genes.ipynb)
 
 - Lecture
-  - [TBD]()
+  - [Pathway Analysis()
 
 
 This years bootcamp is based off of materials prepared for past years by 
