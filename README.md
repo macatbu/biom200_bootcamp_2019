@@ -65,8 +65,8 @@ If notebooks won't load view them in [nbviewer](https://nbviewer.jupyter.org/)
 ### GO Term Analysis, Data Visualization, and Group Presentations 
 
 - Notebooks
-  -[Plotting in Python](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/12-Plotting_in_Python.ipynb)
-  -[Pathway Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/13-Pathway_analysis_of_differentially_expressed_genes.ipynb)
+  - 12 [Plotting in Python](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/12-Plotting_in_Python.ipynb)
+  - 13 [Pathway Analysis](https://github.com/macatbu/biom200_bootcamp_2019/blob/master/notebooks/13-Pathway_analysis_of_differentially_expressed_genes.ipynb)
 
 - Lecture
   - [Pathway Analysis()
